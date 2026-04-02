@@ -1,0 +1,49 @@
+{
+  "zeta": "0.3",
+  "input_dim": 2,
+  "hidden_dim": 8,
+  "param_count": 184,
+  "backend": "cpu",
+  "artifacts": {
+    "rollout": {
+      "path": "/Users/zxr/Desktop/AssignmentCode/EE5311CA1/CA1_group21/results_jax/hlo_zeta0p3/rollout.mlir",
+      "line_count": 665,
+      "while_count": 5,
+      "fusion_count": 0,
+      "dot_count": 32,
+      "tanh_count": 6,
+      "exponential_count": 6,
+      "log_count": 3
+    },
+    "loss": {
+      "path": "/Users/zxr/Desktop/AssignmentCode/EE5311CA1/CA1_group21/results_jax/hlo_zeta0p3/loss.mlir",
+      "line_count": 673,
+      "while_count": 5,
+      "fusion_count": 0,
+      "dot_count": 32,
+      "tanh_count": 6,
+      "exponential_count": 6,
+      "log_count": 3
+    },
+    "grad": {
+      "path": "/Users/zxr/Desktop/AssignmentCode/EE5311CA1/CA1_group21/results_jax/hlo_zeta0p3/grad.mlir",
+      "line_count": 1599,
+      "while_count": 11,
+      "fusion_count": 0,
+      "dot_count": 110,
+      "tanh_count": 14,
+      "exponential_count": 14,
+      "log_count": 7
+    },
+    "train_step": {
+      "path": "/Users/zxr/Desktop/AssignmentCode/EE5311CA1/CA1_group21/results_jax/hlo_zeta0p3/train_step.mlir",
+      "line_count": 1654,
+      "while_count": 11,
+      "fusion_count": 0,
+      "dot_count": 110,
+      "tanh_count": 14,
+      "exponential_count": 14,
+      "log_count": 7
+    }
+  }
+}

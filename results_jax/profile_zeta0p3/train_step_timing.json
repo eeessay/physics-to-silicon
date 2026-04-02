@@ -1,0 +1,20 @@
+{
+  "zeta": "0.3",
+  "backend": "cpu",
+  "input_dim": 2,
+  "hidden_dim": 8,
+  "param_count": 184,
+  "eager_iters": 5,
+  "steady_iters": 20,
+  "eager_first_execute_sec": 3.1532158330010134,
+  "eager_execute_sec_mean": 1.8203941586005385,
+  "eager_execute_sec_std": 0.054003494639845384,
+  "lower_sec": 0.7083289160000277,
+  "compile_sec": 1.2102181669979473,
+  "first_execute_sec": 0.017219707995536737,
+  "steady_execute_sec_mean": 0.019271760449555586,
+  "steady_execute_sec_std": 0.016189669630130212,
+  "steady_execute_sec_min": 0.013877707999199629,
+  "steady_execute_sec_max": 0.08956108299753396,
+  "last_loss": 0.041546694934368134
+}
