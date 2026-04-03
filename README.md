@@ -2,7 +2,7 @@
 
 Cross-framework implementation and benchmarking of continuous-time recurrent architectures on physics-based time series.
 
-> 📖 Blog: https://divine-dream-f67e.yuxintong0805.workers.dev/
+> 📖 Blog: https://physics-to-silicon.yuxintong0805.workers.dev/
 
 ---
 
